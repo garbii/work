@@ -1,0 +1,11 @@
+logging:
+  file:
+    name: log_file
+  level:
+    root: ERROR
+    
+spring:
+   data:
+     rest:
+       base-path: /api 
+    

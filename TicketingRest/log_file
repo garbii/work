@@ -1,0 +1,40 @@
+2020-04-05 18:35:58.941 ERROR 10636 --- [Thread-6] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table airport if exists
+2020-04-05 18:35:58.948 ERROR 10636 --- [Thread-6] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table company if exists
+2020-04-05 18:35:58.949 ERROR 10636 --- [Thread-6] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table flight if exists
+2020-04-05 18:35:58.949 ERROR 10636 --- [Thread-6] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table rout if exists
+2020-04-05 19:19:20.377 ERROR 10416 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-04-05 19:19:20.397 ERROR 10416 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table airport if exists
+2020-04-05 19:19:20.401 ERROR 10416 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table company if exists
+2020-04-05 19:19:20.402 ERROR 10416 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table flight if exists
+2020-04-05 19:19:20.403 ERROR 10416 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table rout if exists
+2020-04-05 19:30:18.334 ERROR 18276 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-04-05 19:30:18.352 ERROR 18276 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table airport if exists
+2020-04-05 19:30:18.354 ERROR 18276 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table company if exists
+2020-04-05 19:30:18.355 ERROR 18276 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table flight if exists
+2020-04-05 19:30:18.356 ERROR 18276 --- [restartedMain] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table rout if exists
